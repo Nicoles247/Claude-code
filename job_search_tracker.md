@@ -4,6 +4,22 @@
 
 ---
 
+## ⚙️ REGLAS DE AUTOMATIZACIÓN ACTIVAS
+
+| Regla | Configuración |
+|---|---|
+| Frecuencia de búsqueda | Cada 3 horas (manual hasta tener scheduler) |
+| CV auto-preparado | Match **>84%** (≥85%) |
+| Aplicación automática | ❌ DESACTIVADA — requiere aprobación manual |
+| Recordatorio diario | ⏰ **7:00 PM ET** — Google Calendar (recurrente, todos los días) |
+| Tracker interactivo | 📊 [Notion — Job Search Tracker](https://app.notion.com/p/d38c8bf29350439d8e8f915fb96dee62) |
+| Publicación máxima | 3 meses (90 días) |
+| Match mínimo para mostrar | 70% |
+
+---
+
+---
+
 ## 📊 RESUMEN EJECUTIVO
 
 | Métrica | Valor |
