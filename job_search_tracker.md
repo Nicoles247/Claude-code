@@ -1,0 +1,219 @@
+# 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
+**Última actualización:** 2026-06-17 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
+
+---
+
+## 📊 RESUMEN EJECUTIVO
+
+| Métrica | Valor |
+|---|---|
+| Búsquedas ejecutadas | 6 (ronda 1+2) |
+| Empleos encontrados | 18 |
+| Empleos calificados (≥70% match) | 10 |
+| **Aplicar de inmediato (≥85%)** | **3** |
+| Aplicar esta semana (75-84%) | 5 |
+| Monitorear / considerar (70-74%) | 2 |
+
+---
+
+## 🏆 TABLA PRINCIPAL DE RESULTADOS
+
+| # | Puesto | Empresa | Modalidad | Ubicación | Salario/año | Match % | Estado |
+|---|---|---|---|---|---|---|---|
+| 1 | Program Coordinator | Ohio Hispanic Coalition | Presencial | Columbus, OH | $47,840–$56,160 | **91%** | ⚡ APLICAR HOY |
+| 2 | Account Coordinator | Origo Branding Company | **Híbrido** | Columbus, OH | $39,494–$52,181 | **88%** | ⚡ APLICAR HOY |
+| 3 | Marketing & Patient Care Coordinator | Minga Orthodontics | Presencial | Dublin, OH | $37,440–$45,760 | **85%** | ⚡ APLICAR HOY |
+| 4 | Public Relations Coordinator | Limitless East Marketing | Presencial | Columbus, OH | $50,000–$55,000 | **82%** | 📅 Esta semana |
+| 5 | Social Media Coordinator | The Sociable Society | **Remoto** | Miami, FL (remoto) | $41,000–$57,000 | **80%** | 📅 Esta semana |
+| 6 | Community Relations Specialist | Dawson | Presencial | Columbus, OH | $50,000+ | **78%** | 📅 Esta semana |
+| 7 | Event Marketing Operations Coordinator | Great Day Improvements | **Híbrido** | Twinsburg, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
+| 8 | Marketing Coordinator (US Remote) | MERIT CRO, Inc. | **Remoto** | Remote US | $43,000–$45,000 | **74%** | 👁️ Monitorear |
+| 9 | Coordinator, Marketing Operations | Original X Productions | **Remoto** | NY (remoto) | $42,000–$60,500 | **73%** | 👁️ Monitorear |
+| 10 | Marketing Production Coordinator | Five Star Group | Presencial | Canal Winchester, OH | $41,981–$57,259 | **62%** | ❌ No aplica ahora |
+
+---
+
+## 🔍 ANÁLISIS DETALLADO POR PUESTO
+
+---
+
+### #1 — Program Coordinator | Ohio Hispanic Coalition | 91% match ⚡
+**Salario:** $47,840–$56,160/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 16 junio 2026 (AYER) | **Tipo:** Full-time
+**Link:** https://to.indeed.com/aa9vfgglthf6
+
+**Por qué eres compatible:**
+- Bilingual English/Spanish REQUERIDO — tu ventaja #1 en este puesto
+- Coordinación de eventos (experiencia directa)
+- Outreach comunitario y relaciones públicas
+- Gestión de programas y comunicaciones
+- Creación de materiales de marketing
+- Representación ante stakeholders y comunidad
+
+**Qué te falta:**
+- 3 años mínimos en gestión/coordinación de programas (tienes ~2 comprobables)
+- Licencia de conducir Ohio (necesaria)
+- Experiencia específica en educación, salud, o servicios sociales
+
+**Riesgo de reemplazo por IA:** BAJO — trabajo comunitario + bilingüe = difícil de automatizar
+
+**Enfoque CV:**
+> Destacar: coordinación de eventos (freelance 2019-2024), gestión administrativa, comunicaciones bilingües, trabajo comunitario. Repositionar experiencia de Maersk como "liderazgo operacional" (entrené nuevos asociados, soporte a supervisores). Omitir o minimizar rol de almacén.
+
+**Cover Letter — ángulo clave:**
+> "Como profesional bilingüe latina radicada en Columbus, entiendo de primera mano las barreras que enfrenta nuestra comunidad. Mi experiencia combinando coordinación de eventos, comunicaciones y gestión de proyectos me permite liderar programas culturalmente relevantes con precisión operacional."
+
+---
+
+### #2 — Account Coordinator | Origo Branding Company | 88% match ⚡
+**Salario:** $39,494–$52,181/año | **Modalidad:** HÍBRIDO | **Columbus, OH 43212**
+**Publicado:** 20 mayo 2026 | **Tipo:** Full-time
+**Link:** https://to.indeed.com/aawl9jmwfgxg
+
+**Beneficios:** 401k, dental, health, vision, PTO, parental leave, profit-sharing
+
+**Por qué eres compatible:**
+- Grado en comunicación/marketing ✓
+- Coordinación de cuentas y clientes (freelance + Microffee)
+- Presentaciones y comunicación escrita
+- Gestión de proyectos y timelines
+- Colaboración cross-functional
+- Social media y content para la agencia
+
+**Qué te falta:**
+- Experiencia explícita en media buying / Paid Search (preferido, no requerido)
+- Experiencia formal en agencia de branding (freelance puede contar)
+
+**Riesgo de reemplazo por IA:** BAJO-MEDIO — el lado de cliente management es humano, content parcialmente afectado
+
+**Enfoque CV:**
+> Posicionar como "marketing + communications + account coordination." Destacar: Microffee (coordinación de clientes y proveedores, social media corporativo), freelance (estrategia de marketing, presentaciones, gestión de cuentas). Usar terminología de agencia.
+
+**Cover Letter — ángulo clave:**
+> "Mi experiencia coordinando clientes, desarrollando estrategias de marketing y gestionando proyectos creativos de inicio a fin se alinea directamente con el rol de Account Coordinator en Origo. Estoy familiarizada con el ritmo de trabajo multi-cliente y el valor de una comunicación clara y proactiva."
+
+---
+
+### #3 — Marketing & Patient Care Coordinator | Minga Orthodontics | 85% match ⚡
+**Salario:** $18–$22/hora (~$37,440–$45,760 año) | **Modalidad:** Presencial | **Dublin + Plain City, OH**
+**Publicado:** 8 junio 2026 | **Tipo:** Full-time (32-40 hrs)
+**Link:** https://to.indeed.com/aalqrxv6fsyg
+
+**Por qué eres compatible:**
+- Dublin, OH — TU CIUDAD ✓
+- Comunicación con pacientes/clientes (customer experience)
+- Social media content y estrategia
+- Community outreach liaison
+- Marketing swag y contenido de marca
+- Outgoing personality + communication skills (tu fortaleza)
+- Quick learner + team player (exactamente lo que piden)
+
+**Qué te falta:**
+- Experiencia en sector salud/ortodoncia (no requerida, pero preferida)
+- Nota: salario más bajo que tu target ($28-40/hr), bonos por goals pueden compensar
+
+**Riesgo de reemplazo por IA:** BAJO — atención al paciente + presencia física requerida
+
+**Nota estratégica:** Ubicación ideal + match cultural alto. Puede ser excelente trampolín local mientras buscas roles más altos.
+
+**Enfoque CV:**
+> Destacar: customer-facing skills, community outreach, social media, marketing content. Framear como "cara de la marca" — exactamente lo que piden. Bilingual = ventaja si tienen pacientes hispanohablantes.
+
+---
+
+### #4 — Public Relations Coordinator | Limitless East Marketing | 82% match 📅
+**Salario:** $50,000–$55,000/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 2 días atrás | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChY2YTFKajNCZG41ck1mQ2hsUW1CRmNnEiQwMTllZDM4Ny04ZmJhLTdkNzctOTE4My1mZDBhMDM3NmViMmIaSEFBSDdNdEU4aEtxUE5EaVRCSEk0U3lWdzM2bmhaVFFTMVoxdmpiTjJnNjh0c0VTbkV1U0pZcGNMYmc3SEdlSHlFUExyRk45RSDJrQUQARjJrQU%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- PR + comunicaciones + coordinación = tu zona de fortaleza
+- Marketing + client-facing experience
+- Content creation y brand communications
+
+---
+
+### #5 — Social Media Coordinator | The Sociable Society | 80% match 📅
+**Salario:** $41,000–$57,000/año | **Modalidad:** REMOTO | **Trabajo desde Ohio**
+**Publicado:** 2 días atrás | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CosBChYzVHo0N2VzNDNGS0doY3UtUWhwcld3EiQwMTllZDRjMy0wZTdjLTc0YzAtOWJjMC1mNGE4NjI1MDgwN2YaR0FBR1JvdkJJaWg5Ml93ZEpkV3Q0WnNQSEd1TFk2cmg2cUZwY2YtbktRRDJGbm9RNTFTVUEzWHdYcHJmWDNwdWRaVXhmckJnIMmtBRABGMmtBQ%3D%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- Social media management = experiencia directa
+- Meta Business Suite, Canva, content creation
+- Remoto = máxima flexibilidad
+
+---
+
+### #6 — Community Relations Specialist | Dawson | 78% match 📅
+**Salario:** $50,000+/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 14 días atrás | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChZrVXNqdjhHQXNBbVhZRzJsblZ5dVlREiQwMTllZDM4Ny04ZmJhLTdkNzgtODNjMC04MTY2MmNjM2YyZTAaSEFBRXVOdmM1djFGSGhRX3VxTnJaOWxiTjF6aDUySmEtbkNKWmNCenpJZ0hmeTdhQy1BOXp3cmYwR25mLUp2dFNRS2NxTm1vayDJrQUQARjJrQU%3D&tsid=100000502
+
+---
+
+### #7 — Event Marketing Operations Coordinator | Great Day Improvements | 76% match 📅
+**Salario:** $55,000–$65,000/año | **Modalidad:** HÍBRIDO | **Twinsburg, OH (~90 min de Dublin)**
+**Publicado:** 6 días atrás | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CosBChZwMzRyb0R1THpPT25PQlpjbGpRbWtREiQwMTllZDRjMy0xMzY3LTcwOTYtYWFlYS0wNGI5MmNlNDY0ZTUaR0FBRnVXZjhTcUJpZ0tWMEtXM2NudjM5Y1hwT3Jibjg3YUlOVzJOM3FSa1U4b1JHb2xudWNvYkJDUXFXUXQzODVubjVSMjZ3IMmtBRABGMmtBQ%3D%3D&tsid=100000502
+
+**Nota:** Mejor salario del grupo híbrido Ohio. Distancia puede ser issue.
+
+---
+
+## 🧠 ANÁLISIS FINAL
+
+### Tu mejor nicho actual:
+> **Community/Brand Coordinator bilingüe en Ohio** — Eres la candidata más fuerte cuando el puesto combina comunicación en español, coordinación de eventos, marketing, y relaciones con comunidad o clientes. Eso es escaso y valioso.
+
+### Patrones identificados — Qué te falta:
+| Skill | Urgencia | Tiempo para adquirir |
+|---|---|---|
+| Adobe Creative Suite (básico) | Alta | 2-4 semanas (YouTube + practice) |
+| Project management tools (Asana/ClickUp) | Media | 1-2 semanas (free plans disponibles) |
+| LinkedIn optimizado con keywords | CRÍTICA | Esta semana |
+| Portfolio digital de proyectos creativos | Alta | 2-3 semanas |
+| Google Analytics básico | Media | 2-3 semanas (certificación gratis) |
+
+### Qué puedes mejorar rápido (esta semana):
+1. Actualizar LinkedIn headline a: "Bilingual Marketing & Communications Coordinator | Brand | Events | Columbus, OH"
+2. Agregar Canva, Meta Business Suite, Shopify a LinkedIn Skills
+3. Crear 2 versiones del CV (Marketing vs Operations)
+4. Agregar sección "Community Relations" en el CV con experiencia universitaria y freelance
+
+### Roles en riesgo de ser reemplazados por IA:
+- 🔴 **Alto riesgo:** Coordinadores de content puro, copywriters básicos, data entry
+- 🟡 **Riesgo medio:** Social Media Coordinator (herramientas AI afectan pero no eliminan)
+- 🟢 **Bajo riesgo:** Community Relations, Events, Bilingual Coordination, Client Management
+
+### Donde tu experiencia tiene valor FUTURO:
+- Coordinación bilingüe (español) — demanda creciente en Ohio
+- Operations + Marketing híbrido — raro y valorado
+- Event + Community coordination — imposible de automatizar completamente
+- Empresas hispanohablantes o con mercados latinos
+
+---
+
+## 📁 HISTORIAL DE APLICACIONES
+
+| Fecha | Puesto | Empresa | Estado | Próximo paso |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+*(Se actualiza con cada aplicación)*
+
+---
+
+## ⏰ PRÓXIMAS BÚSQUEDAS PROGRAMADAS
+
+| Hora | Búsquedas |
+|---|---|
+| Siguiente ronda | Project Coordinator OH, Client Experience Manager, Content Coordinator remoto |
+| +3 horas | Communications Specialist remoto, Bilingual Coordinator OH |
+| +6 horas | Nonprofit Coordinator OH, Marketing Analyst OH |
+
+---
+
+*Tracker generado automáticamente — Actualizar manualmente estado de aplicaciones*
+*Frecuencia de búsqueda: cada 3 horas | Filtro: publicados < 3 meses | Match mínimo para mostrar: 70%*
