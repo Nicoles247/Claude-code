@@ -199,7 +199,9 @@
 
 | Fecha | Puesto | Empresa | Estado | Próximo paso |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-06-17 | Program Coordinator | Ohio Hispanic Coalition | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aa9vfgglthf6) → subir `01_OhioHispanicCoalition_CV.md` |
+| 2026-06-17 | Account Coordinator | Origo Branding Company | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aawl9jmwfgxg) → subir `02_OrigoBranding_CV.md` |
+| 2026-06-17 | Mktg & Patient Care Coord. | Minga Orthodontics | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aalqrxv6fsyg) → subir `03_MingaOrthodontics_CV.md` |
 
 *(Se actualiza con cada aplicación)*
 
