@@ -1,5 +1,5 @@
 # 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
-**Última actualización:** 2026-06-17 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Última actualización:** 2026-06-18 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
 **Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
 
 ---
@@ -24,12 +24,13 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 6 (ronda 1+2) |
-| Empleos encontrados | 18 |
-| Empleos calificados (≥70% match) | 10 |
-| **Aplicar de inmediato (≥85%)** | **3** |
-| Aplicar esta semana (75-84%) | 5 |
-| Monitorear / considerar (70-74%) | 2 |
+| Búsquedas ejecutadas | 12 (rondas 1–4) |
+| Empleos encontrados | 28 |
+| Empleos calificados (≥70% match) | 16 |
+| **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
+| **Aplicar de inmediato (≥85%)** | **0** (pendientes en ronda 4) |
+| Aplicar esta semana (75-84%) | 8 |
+| Monitorear / considerar (70-77%) | 5 |
 
 ---
 
@@ -37,16 +38,24 @@
 
 | # | Puesto | Empresa | Modalidad | Ubicación | Salario/año | Match % | Estado |
 |---|---|---|---|---|---|---|---|
-| 1 | Program Coordinator | Ohio Hispanic Coalition | Presencial | Columbus, OH | $47,840–$56,160 | **91%** | ⚡ APLICAR HOY |
-| 2 | Account Coordinator | Origo Branding Company | **Híbrido** | Columbus, OH | $39,494–$52,181 | **88%** | ⚡ APLICAR HOY |
-| 3 | Marketing & Patient Care Coordinator | Minga Orthodontics | Presencial | Dublin, OH | $37,440–$45,760 | **85%** | ⚡ APLICAR HOY |
+| 1 | Program Coordinator | Ohio Hispanic Coalition | Presencial | Columbus, OH | $47,840–$56,160 | **91%** | ✅ APLICADO |
+| 2 | Account Coordinator | Origo Branding Company | **Híbrido** | Columbus, OH | $39,494–$52,181 | **88%** | ✅ APLICADO |
+| 3 | Marketing & Patient Care Coordinator | Minga Orthodontics | Presencial | Dublin, OH | $37,440–$45,760 | **85%** | ✅ APLICADO |
 | 4 | Public Relations Coordinator | Limitless East Marketing | Presencial | Columbus, OH | $50,000–$55,000 | **82%** | 📅 Esta semana |
 | 5 | Social Media Coordinator | The Sociable Society | **Remoto** | Miami, FL (remoto) | $41,000–$57,000 | **80%** | 📅 Esta semana |
 | 6 | Community Relations Specialist | Dawson | Presencial | Columbus, OH | $50,000+ | **78%** | 📅 Esta semana |
 | 7 | Event Marketing Operations Coordinator | Great Day Improvements | **Híbrido** | Twinsburg, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
-| 8 | Marketing Coordinator (US Remote) | MERIT CRO, Inc. | **Remoto** | Remote US | $43,000–$45,000 | **74%** | 👁️ Monitorear |
-| 9 | Coordinator, Marketing Operations | Original X Productions | **Remoto** | NY (remoto) | $42,000–$60,500 | **73%** | 👁️ Monitorear |
-| 10 | Marketing Production Coordinator | Five Star Group | Presencial | Canal Winchester, OH | $41,981–$57,259 | **62%** | ❌ No aplica ahora |
+| **R4-1** | **Coordinator of Communications & Marketing** | **Eastland-Fairfield Career Tech Schools** | Presencial | Groveport, OH | $42,700–$57,400 | **81%** | 📅 Esta semana |
+| **R4-2** | **Associate, B2C Marketing Operations & Strategy** | **DailyPay** | **Remoto** | Remote US | $76,000–$114,000 | **80%** | 📅 Esta semana |
+| **R4-3** | **Marketing & Communications Coordinator** | **Boys and Girls Clubs of NE Ohio** | Presencial | Cleveland, OH | $48,000–$54,000 | **79%** | 📅 Esta semana |
+| **R4-4** | **Digital Marketing Coordinator** | **Cengage Learning** | **Remoto** | Remote US | $42,600–$56,100 | **78%** | 📅 Esta semana |
+| 8 | Marketing & Community Outreach Coordinator | The Disc Chiropractic | **Remoto** | Remote | $45,000–$55,000 | **76%** | 📅 Esta semana |
+| 9 | Marketing Coordinator (US Remote) | MERIT CRO, Inc. | **Remoto** | Remote US | $43,000–$45,000 | **74%** | 👁️ Monitorear |
+| **R4-5** | **Marketing Operations Coordinator** | **Potbelly** | **Remoto** | Remote optional | $50,000–$60,000 | **77%** | 👁️ Monitorear |
+| 10 | Coordinator, Marketing Operations | Original X Productions | **Remoto** | NY (remoto) | $42,000–$60,500 | **73%** | 👁️ Monitorear |
+| 11 | Marketing Coordinator | Dreamfields Brand Inc | Presencial | Columbus, OH | $41,000–$56,500 | **74%** | 👁️ Monitorear |
+| **R4-6** | **Marketing Coordinator** | **BeingBrigid Functional Nutrition** | **Remoto** | Remote US | $55,000–$60,000 | **75%** | 👁️ Monitorear |
+| 12 | Content Marketing Coordinator | DocNetwork | **Remoto** | Remote optional | $50,000–$60,000 | **72%** | 👁️ Monitorear |
 
 ---
 
@@ -215,9 +224,12 @@
 
 | Fecha | Puesto | Empresa | Estado | Próximo paso |
 |---|---|---|---|---|
-| 2026-06-17 | Program Coordinator | Ohio Hispanic Coalition | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aa9vfgglthf6) → subir `01_OhioHispanicCoalition_CV.md` |
-| 2026-06-17 | Account Coordinator | Origo Branding Company | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aawl9jmwfgxg) → subir `02_OrigoBranding_CV.md` |
-| 2026-06-17 | Mktg & Patient Care Coord. | Minga Orthodontics | 📄 **DOCUMENTOS LISTOS** | [Aplicar aquí](https://to.indeed.com/aalqrxv6fsyg) → subir `03_MingaOrthodontics_CV.md` |
+| 2026-06-17 | Program Coordinator | Ohio Hispanic Coalition | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aa9vfgglthf6) |
+| 2026-06-17 | Account Coordinator | Origo Branding Company | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aawl9jmwfgxg) |
+| 2026-06-17 | Mktg & Patient Care Coord. | Minga Orthodontics | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aalqrxv6fsyg) |
+| 2026-06-18 | Coordinator of Communications & Mktg | Eastland-Fairfield | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZmSWNMbC10bVBpcUR2UWh3U09DTjhnEiQwMTllZDg5Ny1lM2QxLTcxMzMtYWM5Yy00Yzk4Zjk0NzQ0YjQaSEFBSGN3VjB5S24td3pRVDR1R1pUMzRjcVlSS0J2N3NLcU9sSXJXb3FBVUdONHk4aFVnTU9SWGwzbjZlWklNbGlmc2ExVTlvUyDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-18 | Associate, B2C Mktg Ops & Strategy | DailyPay | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZ5OUYwenJRZjFVMmZ6djJWZW1VcmtREiQwMTllZDg5Ny03M2ZmLTcwOWUtOTE3MC1iNWFhNDkzODM2M2EaSEFBSHZxSW9XTUwxM0VYTVJaMkVjM3JycDY3c2hrcFp3NzB4U3Q1am5XbUQ3UXJaemNfczJBOHVJeEExZHAwSG1lV3VPb3l0eSDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-18 | Digital Marketing Coordinator | Cengage Learning | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZUREQ3ZUV6Skx4YndBQU1ia1BnWDV3EiQwMTllZDg5Ny1lMDZkLTdjMGQtYTliYi0zNGM1MDZmODc2YTQaSEFBRzYwU3BGOWdMajVlQzVyZHJtQlFmUWVFODdnZ3dqT0VEenQ5OFJhdXJ5bFRLbmwzN2Jrd3Z6LTlQWGRjWHlubldESVVTaCDJrQUQARjJrQU%3D&tsid=100000502) |
 
 *(Se actualiza con cada aplicación)*
 
@@ -227,9 +239,10 @@
 
 | Hora | Búsquedas |
 |---|---|
-| Siguiente ronda | Project Coordinator OH, Client Experience Manager, Content Coordinator remoto |
-| +3 horas | Communications Specialist remoto, Bilingual Coordinator OH |
-| +6 horas | Nonprofit Coordinator OH, Marketing Analyst OH |
+| Ronda 4 (✅ completa) | Bilingual Marketing, Corporate Comms, Content Strategy, Brand Coordinator, Mktg Ops |
+| Ronda 5 (próxima) | Marketing Manager bilingual, Outreach Specialist OH, Events Coordinator OH |
+| +3 horas | Nonprofit Program Coordinator, Communications Manager, Brand Ambassador |
+| +6 horas | Hispanic Marketing Specialist, Operations + Marketing hybrid roles |
 
 ---
 
