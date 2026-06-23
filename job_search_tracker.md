@@ -1,5 +1,5 @@
 # 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
-**Última actualización:** 2026-06-18 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Última actualización:** 2026-06-23 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
 **Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
 
 ---
@@ -24,13 +24,15 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 12 (rondas 1–4) |
-| Empleos encontrados | 28 |
-| Empleos calificados (≥70% match) | 16 |
+| Búsquedas ejecutadas | 18 (rondas 1–6) |
+| Empleos encontrados | 35 |
+| Empleos calificados (≥70% match) | 21 |
 | **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
-| **Aplicar de inmediato (≥85%)** | **0** (pendientes en ronda 4) |
-| Aplicar esta semana (75-84%) | 8 |
-| Monitorear / considerar (70-77%) | 5 |
+| **🎯 Entrevista agendada** | **1** (Arch City Collective — lunes 9:00 AM EST) |
+| **Aplicar de inmediato (≥85%)** | **0** |
+| Aplicar esta semana (75-84%) | 11 |
+| Monitorear / considerar (70-77%) | 7 |
+| 📄 CV Listo | 12 (aplicaciones 8–15, excl. R4-5/R4-6) |
 
 ---
 
@@ -45,17 +47,21 @@
 | 5 | Social Media Coordinator | The Sociable Society | **Remoto** | Miami, FL (remoto) | $41,000–$57,000 | **80%** | 📅 Esta semana |
 | 6 | Community Relations Specialist | Dawson | Presencial | Columbus, OH | $50,000+ | **78%** | 📅 Esta semana |
 | 7 | Event Marketing Operations Coordinator | Great Day Improvements | **Híbrido** | Twinsburg, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
-| **R4-1** | **Coordinator of Communications & Marketing** | **Eastland-Fairfield Career Tech Schools** | Presencial | Groveport, OH | $42,700–$57,400 | **81%** | 📅 Esta semana |
-| **R4-2** | **Associate, B2C Marketing Operations & Strategy** | **DailyPay** | **Remoto** | Remote US | $76,000–$114,000 | **80%** | 📅 Esta semana |
-| **R4-3** | **Marketing & Communications Coordinator** | **Boys and Girls Clubs of NE Ohio** | Presencial | Cleveland, OH | $48,000–$54,000 | **79%** | 📅 Esta semana |
-| **R4-4** | **Digital Marketing Coordinator** | **Cengage Learning** | **Remoto** | Remote US | $42,600–$56,100 | **78%** | 📅 Esta semana |
-| 8 | Marketing & Community Outreach Coordinator | The Disc Chiropractic | **Remoto** | Remote | $45,000–$55,000 | **76%** | 📅 Esta semana |
+| **R4-1** | **Coordinator of Communications & Marketing** | **Eastland-Fairfield Career Tech Schools** | Presencial | Groveport, OH | $42,700–$57,400 | **81%** | 📄 CV Listo |
+| **R4-2** | **Associate, B2C Marketing Operations & Strategy** | **DailyPay** | **Remoto** | Remote US | $76,000–$114,000 | **80%** | 📄 CV Listo |
+| **R4-3** | **Marketing & Communications Coordinator** | **Boys and Girls Clubs of NE Ohio** | Presencial | Cleveland, OH | $48,000–$54,000 | **79%** | 📄 CV Listo |
+| **R4-4** | **Digital Marketing Coordinator** | **Cengage Learning** | **Remoto** | Remote US | $42,600–$56,100 | **78%** | 📄 CV Listo |
+| 8 | Marketing & Community Outreach Coordinator | The Disc Chiropractic | **Remoto** | Remote | $45,000–$55,000 | **76%** | 📄 CV Listo |
+| **R5-1** | **Real Estate Social Media & Marketing Coordinator** | **Jose Medina & Associates** | Presencial | Canton, OH | N/D | **81%** | 📄 CV Listo |
+| **R5-2** | **Marketing/Design Coordinator** | **Capitol Citicom, Inc.** | Presencial | Columbus, OH | N/D | **78%** | 📄 CV Listo |
+| **AC-1** | **Marketing Coordinator** | **Arch City Collective** | Presencial | Columbus, OH | N/D | **~85%** | 🎯 ENTREVISTA LUNES |
 | 9 | Marketing Coordinator (US Remote) | MERIT CRO, Inc. | **Remoto** | Remote US | $43,000–$45,000 | **74%** | 👁️ Monitorear |
 | **R4-5** | **Marketing Operations Coordinator** | **Potbelly** | **Remoto** | Remote optional | $50,000–$60,000 | **77%** | 👁️ Monitorear |
 | 10 | Coordinator, Marketing Operations | Original X Productions | **Remoto** | NY (remoto) | $42,000–$60,500 | **73%** | 👁️ Monitorear |
 | 11 | Marketing Coordinator | Dreamfields Brand Inc | Presencial | Columbus, OH | $41,000–$56,500 | **74%** | 👁️ Monitorear |
 | **R4-6** | **Marketing Coordinator** | **BeingBrigid Functional Nutrition** | **Remoto** | Remote US | $55,000–$60,000 | **75%** | 👁️ Monitorear |
 | 12 | Content Marketing Coordinator | DocNetwork | **Remoto** | Remote optional | $50,000–$60,000 | **72%** | 👁️ Monitorear |
+| **R6-1** | **Graduate Enrollment & Partnership Coordinator** | **Ohio Dominican University** | Presencial | Columbus, OH | $44,352–$60,837 | **75%** | 📄 CV Listo |
 
 ---
 
@@ -227,9 +233,15 @@
 | 2026-06-17 | Program Coordinator | Ohio Hispanic Coalition | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aa9vfgglthf6) |
 | 2026-06-17 | Account Coordinator | Origo Branding Company | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aawl9jmwfgxg) |
 | 2026-06-17 | Mktg & Patient Care Coord. | Minga Orthodontics | ✅ **APLICADO** | [Ver puesto](https://to.indeed.com/aalqrxv6fsyg) |
-| 2026-06-18 | Coordinator of Communications & Mktg | Eastland-Fairfield | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZmSWNMbC10bVBpcUR2UWh3U09DTjhnEiQwMTllZDg5Ny1lM2QxLTcxMzMtYWM5Yy00Yzk4Zjk0NzQ0YjQaSEFBSGN3VjB5S24td3pRVDR1R1pUMzRjcVlSS0J2N3NLcU9sSXJXb3FBVUdONHk4aFVnTU9SWGwzbjZlWklNbGlmc2ExVTlvUyDJrQUQARjJrQU%3D&tsid=100000502) |
-| 2026-06-18 | Associate, B2C Mktg Ops & Strategy | DailyPay | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZ5OUYwenJRZjFVMmZ6djJWZW1VcmtREiQwMTllZDg5Ny03M2ZmLTcwOWUtOTE3MC1iNWFhNDkzODM2M2EaSEFBSHZxSW9XTUwxM0VYTVJaMkVjM3JycDY3c2hrcFp3NzB4U3Q1am5XbUQ3UXJaemNfczJBOHVJeEExZHAwSG1lV3VPb3l0eSDJrQUQARjJrQU%3D&tsid=100000502) |
-| 2026-06-18 | Digital Marketing Coordinator | Cengage Learning | 📄 CV pendiente | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZUREQ3ZUV6Skx4YndBQU1ia1BnWDV3EiQwMTllZDg5Ny1lMDZkLTdjMGQtYTliYi0zNGM1MDZmODc2YTQaSEFBRzYwU3BGOWdMajVlQzVyZHJtQlFmUWVFODdnZ3dqT0VEenQ5OFJhdXJ5bFRLbmwzN2Jrd3Z6LTlQWGRjWHlubldESVVTaCDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-18 | Coordinator of Communications & Mktg | Eastland-Fairfield | 📄 CV Listo | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZmSWNMbC10bVBpcUR2UWh3U09DTjhnEiQwMTllZDg5Ny1lM2QxLTcxMzMtYWM5Yy00Yzk4Zjk0NzQ0YjQaSEFBSGN3VjB5S24td3pRVDR1R1pUMzRjcVlSS0J2N3NLcU9sSXJXb3FBVUdONHk4aFVnTU9SWGwzbjZlWklNbGlmc2ExVTlvUyDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-18 | Associate, B2C Mktg Ops & Strategy | DailyPay | 📄 CV Listo | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZ5OUYwenJRZjFVMmZ6djJWZW1VcmtREiQwMTllZDg5Ny03M2ZmLTcwOWUtOTE3MC1iNWFhNDkzODM2M2EaSEFBSHZxSW9XTUwxM0VYTVJaMkVjM3JycDY3c2hrcFp3NzB4U3Q1am5XbUQ3UXJaemNfczJBOHVJeEExZHAwSG1lV3VPb3l0eSDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-18 | Marketing & Comms Coordinator | Boys & Girls Clubs NE Ohio | 📄 CV Listo | Aplicar vía Indeed |
+| 2026-06-18 | Digital Marketing Coordinator | Cengage Learning | 📄 CV Listo | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZUREQ3ZUV6Skx4YndBQU1ia1BnWDV3EiQwMTllZDg5Ny1lMDZkLTdjMGQtYTliYi0zNGM1MDZmODc2YTQaSEFBRzYwU3BGOWdMajVlQzVyZHJtQlFmUWVFODdnZ3dqT0VEenQ5OFJhdXJ5bFRLbmwzN2Jrd3Z6LTlQWGRjWHlubldESVVTaCDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-19 | Mktg & Community Outreach Coordinator | The Disc Chiropractic | 📄 CV Listo | Aplicar vía Indeed |
+| 2026-06-19 | Real Estate Social Media & Mktg Coordinator | Jose Medina & Associates | 📄 CV Listo | Aplicar vía Indeed |
+| 2026-06-19 | Marketing/Design Coordinator | Capitol Citicom, Inc. | 📄 CV Listo | Aplicar vía Indeed |
+| 2026-06-19 | Marketing Coordinator | Arch City Collective | 🎯 **ENTREVISTA LUNES 9 AM EST** | Prep guide creada |
+| 2026-06-23 | Graduate Enrollment & Partnership Coordinator | Ohio Dominican University | 📄 CV Listo | Aplicar vía Indeed |
 
 *(Se actualiza con cada aplicación)*
 
@@ -240,9 +252,10 @@
 | Hora | Búsquedas |
 |---|---|
 | Ronda 4 (✅ completa) | Bilingual Marketing, Corporate Comms, Content Strategy, Brand Coordinator, Mktg Ops |
-| Ronda 5 (próxima) | Marketing Manager bilingual, Outreach Specialist OH, Events Coordinator OH |
-| +3 horas | Nonprofit Program Coordinator, Communications Manager, Brand Ambassador |
-| +6 horas | Hispanic Marketing Specialist, Operations + Marketing hybrid roles |
+| Ronda 5 (✅ completa) | Real Estate Social Media, Agency Coordinator, Bilingual Marketing Coordinator |
+| Ronda 6 (✅ completa) | University Enrollment, Hispanic Outreach, Graduate Programs OH |
+| Ronda 7 (pendiente) | Healthcare Marketing, Education Outreach, Nonprofit Communications OH |
+| Ronda 8 (pendiente) | Hispanic Media Specialist, Community Outreach Coordinator, Brand Partnerships |
 
 ---
 
