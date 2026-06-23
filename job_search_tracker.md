@@ -1,5 +1,5 @@
 # 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
-**Última actualización:** 2026-06-23 | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Última actualización:** 2026-06-23 (R7) | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
 **Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
 
 ---
@@ -24,15 +24,16 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 18 (rondas 1–6) |
-| Empleos encontrados | 35 |
-| Empleos calificados (≥70% match) | 21 |
+| Búsquedas ejecutadas | 23 (rondas 1–7) |
+| Empleos encontrados | 45 |
+| Empleos calificados (≥70% match) | 29 |
 | **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
-| **🎯 Entrevista agendada** | **1** (Arch City Collective — lunes 9:00 AM EST) |
-| **Aplicar de inmediato (≥85%)** | **0** |
-| Aplicar esta semana (75-84%) | 11 |
-| Monitorear / considerar (70-77%) | 7 |
+| **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
+| **Aplicar de inmediato (≥85%)** | **3** (Express, Penzone Social, Penzone Design) |
+| Aplicar esta semana (75-84%) | 12 |
+| Monitorear / considerar (65-74%) | 9 |
 | 📄 CV Listo | 12 (aplicaciones 8–15, excl. R4-5/R4-6) |
+| ⚠️ Descartadas (ventas directas/scam) | 2 (Arch City Collective, Park 6 Logistics) |
 
 ---
 
@@ -62,6 +63,17 @@
 | **R4-6** | **Marketing Coordinator** | **BeingBrigid Functional Nutrition** | **Remoto** | Remote US | $55,000–$60,000 | **75%** | 👁️ Monitorear |
 | 12 | Content Marketing Coordinator | DocNetwork | **Remoto** | Remote optional | $50,000–$60,000 | **72%** | 👁️ Monitorear |
 | **R6-1** | **Graduate Enrollment & Partnership Coordinator** | **Ohio Dominican University** | Presencial | Columbus, OH | $44,352–$60,837 | **75%** | 📄 CV Listo |
+| **R7-1** | **Content Creator, Social Media & Community** | **Express & Bonobos** | Presencial | Columbus, OH | $40,500–$65,000 | **88%** | 🔥 Aplicar HOY |
+| **R7-2** | **Marketing Coordinator (Social + Content)** | **Penzone Salons** | **Híbrido** | Dublin, OH | $44,300–$55,900 | **85%** | 🔥 Aplicar HOY |
+| **R7-3** | **Marketing Coordinator (Design + Digital)** | **Charles Penzone** | **Híbrido** | Dublin, OH | $42,900–$56,400 | **84%** | 📅 Esta semana |
+| **R7-4** | **Senior Social Media Specialist — International** | **L Brands, Inc.** | Presencial | Columbus, OH | $40,600–$59,900 | **82%** | 📅 Esta semana |
+| **R7-5** | **Community Director — Corporate Wellness & Partnerships** | **Restore Hyper Wellness** | Presencial | Columbus, OH | $50,000+ | **76%** | 📅 Esta semana |
+| **R7-6** | **Social Media Expert** | **Jeff Wyler Automotive Family** | Presencial | Dublin, OH | N/D | **73%** | 👁️ Monitorear |
+| **R7-7** | **Marketing Production Coordinator** | **Five Star Group** | Presencial | Canal Winchester, OH | $41,988–$57,266 | **71%** | 👁️ Monitorear |
+| **R7-8** | **Marketing Coordinator** | **RDP Foodservice** | Presencial | Hilliard, OH | $40,746–$53,289 | **70%** | 👁️ Monitorear |
+| **R7-9** | **Marketing Coordinator / Back Desk** | **Oral & Maxillofacial Surgery Center** | Presencial | Pickerington, OH | $37,440–$49,920 | **65%** | 👁️ Monitorear |
+| **R7-10** | **Home Health Marketing Outreach Coordinator** | **Tucker Home Healthcare** | Presencial | Columbus, OH | $30,000–$50,000 | **65%** | 👁️ Monitorear |
+| ~~AC-1~~ | ~~Marketing Coordinator~~ | ~~Arch City Collective~~ | ~~Presencial~~ | ~~Columbus, OH~~ | ~~N/D~~ | ~~85%~~ | ⛔ DESCARTADA — ventas directas |
 
 ---
 
@@ -226,6 +238,81 @@
 
 ---
 
+---
+
+### R7-1 — Content Creator, Social Media & Community | Express & Bonobos | 88% match 🔥
+**Salario:** $40,500–$65,000/año | **Modalidad:** Presencial | **Columbus, OH** (HQ corporativo)
+**Publicado:** hace 5 días | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChZjeU5GTGhFVExjcW1OUktBd0hfRnpnEiQwMTllZjY0OC0wM2ZhLTdmMWQtYWViOS05ZmFiMTA3OWI2YzAaSEFBR0ZGY3ZtS0RMeW42VXc0NVhDZHFha3dWTGlYamtuX25LX2x6Tm9DQ1ZMWVk0REdmbm42Nk4teGl5MlZ4Z0k0eVNGdjVGYyDJrQUQARjJrQU%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- Express tiene HQ en Columbus — empresa de retail mayor, estabilidad
+- Rol de content + social media + community = tu zona exacta de experiencia
+- "Community" implica engagement bilingüe — ventaja directa para audiencias hispanas
+- Rango salarial amplio ($40.5k–$65k) → margen para negociar
+
+**Ángulo clave CV/Cover Letter:**
+> Freelance de social media (gestión de comunidades, contenido visual), Microffee (redes + coordinación), + capacidad bilingüe para conectar con comunidades diversas.
+
+---
+
+### R7-2 — Marketing Coordinator (Social + Content) | Penzone Salons | 85% match 🔥
+**Salario:** $44,300–$55,900/año | **Modalidad:** HÍBRIDO | **Dublin, OH**
+**Publicado:** hace 16 días | **Tipo:** Full-time | **Beneficios:** Medical, Dental, Vision, PTO, 401k
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChY2ZXMydXBieTRTaldEQVVJblIzN2RnEiQwMTllZjY0OC0wM2ZhLTdmMjItYjY3Ni04MzkwMzc2ODk4OWEaSEFBR1liSDlIQVQ0VGVZT3RmWnlHYTNHVk9oX3hOZEY5VUowRnd2QjRUWEJDQXdnNXZqdlZXNDVLdE42bGlwWG01b1l4Y2NZNiDJrQUQARjJrQU%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- **Penzone = empresa reconocida en Columbus** (salones premium + spa) — marca legítima, estable
+- Dublin, OH — TU CIUDAD ✓
+- **Híbrido** — balance trabajo presencial/remoto
+- Social + Content = exactamente tu experiencia en Microffee + freelance
+- Full benefits package = paquete completo
+
+**Ángulo clave:**
+> Experiencia gestionando redes sociales para marca de servicio (Microffee), creación de contenido visual con Canva/Adobe, coordinación con equipos internos.
+
+---
+
+### R7-3 — Marketing Coordinator (Design + Digital) | Charles Penzone | 84% match ⭐
+**Salario:** $42,900–$56,400/año | **Modalidad:** HÍBRIDO | **Dublin, OH**
+**Publicado:** hace 2 días | **Tipo:** Full-time | **Beneficios:** Medical, Dental, Vision, PTO, 401k
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChZCZllYN1JNbUdJQ0VheEdHWm9acGZREiQwMTllZjY0OC0wMDViLTc5MzYtYTNhZC0xMTkyMWYzYjJhYzgaSEFBR3ljQnFCUkFXWTlnQWlUM1VfZTZONFAzXzdIaVprb0FCQlAydkZIU3J0RG1hMkphVGlST0QtWVdGQlRjaW5zLVlRdEJ2ViDJrQUQARjJrQU%3D&tsid=100000502
+
+**Nota:** Charles Penzone = mismo grupo empresarial que Penzone Salons. Son DOS roles diferentes en la misma empresa — Design+Digital vs Social+Content. Aplica a ambos con el mismo CV pero cover letters diferenciadas.
+
+---
+
+### R7-4 — Senior Social Media Specialist — International | L Brands, Inc. | 82% match ⭐
+**Salario:** $40,600–$59,900/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** hace 27 días | **Tipo:** Full-time | **Beneficios:** Medical, Dental, Vision, PTO, 401k
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChZWVGMtOWViZHpGRDMwNXM1eUZMWTNBEiQwMTllZjY0OC0wM2ZhLTdmMjYtYjZlMC0zODFkNDJiZDRmMWUaSEFBRjh2ZXhhNFoyYVc3RUw4dDV3UDhXQTFOSF9uVE1Mek4tWWJTS1BxUThjYUpQZU9xeTBaU0R3TjBodVc2MXJ5QUxLb2RUQSDJrQUQARjJrQU%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- **L Brands = Victoria's Secret + Bath & Body Works** — empresa Fortune 500 con HQ en Columbus
+- **"International"** → bilingüismo ES/EN = ventaja DIRECTA para mercados hispanos (US Latino + LATAM)
+- "Senior" en título pero rango salarial es entry/mid level ($40-60k) → puesto accesible
+- Publicado hace 27 días — todavía activo, pero aplicar pronto
+
+**Ángulo clave:**
+> Bilingüe nativa ES/EN con experiencia en coordinación de contenido para audiencias diversas. Maersk = empresa global (experiencia en comunicaciones internacionales). Capacidad para adaptar mensajes de marca a mercados hispanohablantes.
+
+---
+
+### R7-5 — Community Director, Corporate Wellness | Restore Hyper Wellness | 76% match ⭐
+**Salario:** $50,000+/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** hace 2 días | **Tipo:** Full-time
+**Link:** https://www.ziprecruiter.com/job-redirect?match_token=CowBChZvYkpJRC1qTnNyQmh2RndycmxkV3J3EiQwMTllZjY0OC0wM2ZhLTdmMjQtODYzNy0zODZiYmU0NGI1OWEaSEFBRks5anpNTWpiWHBkNE9FbjJpZkpFaGNXd2duUmRDaDk3eGZHQmY3S1RWZUQyaHdxY1NFeTdIZUJLd1BZOGxGYjdnYm8wWCDJrQUQARjJrQU%3D&tsid=100000502
+
+**Por qué eres compatible:**
+- Corporate wellness + local partnerships = coordinación comunitaria (experiencia directa)
+- "Community Director" = outreach, relaciones, eventos locales
+- Salario mínimo $50k — buen piso
+
+**Qué revisar:**
+- "Director" puede requerir 3-5 años de experiencia en wellness/fitness — verificar requisitos antes de aplicar
+
+---
+
 ## 📁 HISTORIAL DE APLICACIONES
 
 | Fecha | Puesto | Empresa | Estado | Próximo paso |
@@ -240,8 +327,12 @@
 | 2026-06-19 | Mktg & Community Outreach Coordinator | The Disc Chiropractic | 📄 CV Listo | Aplicar vía Indeed |
 | 2026-06-19 | Real Estate Social Media & Mktg Coordinator | Jose Medina & Associates | 📄 CV Listo | Aplicar vía Indeed |
 | 2026-06-19 | Marketing/Design Coordinator | Capitol Citicom, Inc. | 📄 CV Listo | Aplicar vía Indeed |
-| 2026-06-19 | Marketing Coordinator | Arch City Collective | 🎯 **ENTREVISTA LUNES 9 AM EST** | Prep guide creada |
+| 2026-06-19 | Marketing Coordinator | Arch City Collective | ⛔ **DESCARTADA** | Ventas directas B2C, comisión — no aplica |
 | 2026-06-23 | Graduate Enrollment & Partnership Coordinator | Ohio Dominican University | 📄 CV Listo | Aplicar vía Indeed |
+| 2026-06-23 | Content Creator, Social Media & Community | Express & Bonobos | 🔥 **APLICAR HOY** | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZjeU5GTGhFVExjcW1OUktBd0hfRnpnEiQwMTllZjY0OC0wM2ZhLTdmMWQtYWViOS05ZmFiMTA3OWI2YzAaSEFBR0ZGY3ZtS0RMeW42VXc0NVhDZHFha3dWTGlYamtuX25LX2x6Tm9DQ1ZMWVk0REdmbm42Nk4teGl5MlZ4Z0k0eVNGdjVGYyDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-23 | Marketing Coordinator (Social + Content) | Penzone Salons | 🔥 **APLICAR HOY** | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChY2ZXMydXBieTRTaldEQVVJblIzN2RnEiQwMTllZjY0OC0wM2ZhLTdmMjItYjY3Ni04MzkwMzc2ODk4OWEaSEFBR1liSDlIQVQ0VGVZT3RmWnlHYTNHVk9oX3hOZEY5VUowRnd2QjRUWEJDQXdnNXZqdlZXNDVLdE42bGlwWG01b1l4Y2NZNiDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-23 | Marketing Coordinator (Design + Digital) | Charles Penzone | 📅 Esta semana | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZCZllYN1JNbUdJQ0VheEdHWm9acGZREiQwMTllZjY0OC0wMDViLTc5MzYtYTNhZC0xMTkyMWYzYjJhYzgaSEFBR3ljQnFCUkFXWTlnQWlUM1VfZTZONFAzXzdIaVprb0FCQlAydkZIU3J0RG1hMkphVGlST0QtWVdGQlRjaW5zLVlRdEJ2ViDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-23 | Senior Social Media Specialist — International | L Brands, Inc. | 📅 Esta semana | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZWVGMtOWViZHpGRDMwNXM1eUZMWTNBEiQwMTllZjY0OC0wM2ZhLTdmMjYtYjZlMC0zODFkNDJiZDRmMWUaSEFBRjh2ZXhhNFoyYVc3RUw4dDV3UDhXQTFOSF9uVE1Mek4tWWJTS1BxUThjYUpQZU9xeTBaU0R3TjBodVc2MXJ5QUxLb2RUQSDJrQUQARjJrQU%3D&tsid=100000502) |
 
 *(Se actualiza con cada aplicación)*
 
@@ -254,8 +345,8 @@
 | Ronda 4 (✅ completa) | Bilingual Marketing, Corporate Comms, Content Strategy, Brand Coordinator, Mktg Ops |
 | Ronda 5 (✅ completa) | Real Estate Social Media, Agency Coordinator, Bilingual Marketing Coordinator |
 | Ronda 6 (✅ completa) | University Enrollment, Hispanic Outreach, Graduate Programs OH |
-| Ronda 7 (pendiente) | Healthcare Marketing, Education Outreach, Nonprofit Communications OH |
-| Ronda 8 (pendiente) | Hispanic Media Specialist, Community Outreach Coordinator, Brand Partnerships |
+| Ronda 7 (✅ completa) | Social Media Expert, Content Creator, Marketing Coordinator Digital/Design, L Brands, Wellness |
+| Ronda 8 (pendiente) | Hispanic Media Specialist, Nonprofit Communications, Brand Partnerships, Healthcare Marketing |
 
 ---
 
