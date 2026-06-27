@@ -1,5 +1,5 @@
 # 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
-**Última actualización:** 2026-06-23 (R7) | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Última actualización:** 2026-06-26 (R8) | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
 **Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
 
 ---
@@ -24,14 +24,14 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 23 (rondas 1–7) |
-| Empleos encontrados | 45 |
-| Empleos calificados (≥70% match) | 29 |
+| Búsquedas ejecutadas | 26+ (rondas 1–8) |
+| Empleos encontrados | 48 |
+| Empleos calificados (≥70% match) | 31 |
 | **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
 | **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
 | **Aplicar de inmediato (≥85%)** | **3** (Express, Penzone Social, Penzone Design) |
-| Aplicar esta semana (75-84%) | 12 |
-| Monitorear / considerar (65-74%) | 9 |
+| Aplicar esta semana (75-84%) | 13 |
+| Monitorear / considerar (65-74%) | 11 |
 | 📄 CV Listo | 12 (aplicaciones 8–15, excl. R4-5/R4-6) |
 | ⚠️ Descartadas (ventas directas/scam) | 2 (Arch City Collective, Park 6 Logistics) |
 
@@ -73,6 +73,9 @@
 | **R7-8** | **Marketing Coordinator** | **RDP Foodservice** | Presencial | Hilliard, OH | $40,746–$53,289 | **70%** | 👁️ Monitorear |
 | **R7-9** | **Marketing Coordinator / Back Desk** | **Oral & Maxillofacial Surgery Center** | Presencial | Pickerington, OH | $37,440–$49,920 | **65%** | 👁️ Monitorear |
 | **R7-10** | **Home Health Marketing Outreach Coordinator** | **Tucker Home Healthcare** | Presencial | Columbus, OH | $30,000–$50,000 | **65%** | 👁️ Monitorear |
+| **R8-1** | **Brand Content Manager** | **Ability Chiropractic** | Presencial | Columbus, OH | $50,000–$60,000 | **82%** | 📅 Esta semana |
+| **R8-2** | **Marketing Operations & Strategic Projects Manager** | **Alcore Senior Management** | **Híbrido** | Dublin, OH | $50,000–$65,000 | **74%** | 👁️ Monitorear |
+| **R8-3** | **Community Manager \| Rambler** | **LV Collective** | Presencial | Columbus, OH | $39,474–$56,907 | **68%** | 👁️ Monitorear |
 | ~~AC-1~~ | ~~Marketing Coordinator~~ | ~~Arch City Collective~~ | ~~Presencial~~ | ~~Columbus, OH~~ | ~~N/D~~ | ~~85%~~ | ⛔ DESCARTADA — ventas directas |
 
 ---
@@ -313,6 +316,56 @@
 
 ---
 
+### R8-1 — Brand Content Manager | Ability Chiropractic | 82% match ⭐
+**Salario:** $50,000–$60,000/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 22 junio 2026 | **Tipo:** Full-time
+**Fuente:** Indeed
+
+**Por qué eres compatible:**
+- Brand content creation = núcleo de tu experiencia (freelance + Microffee)
+- Chiropractic/wellness = servicio local, comunidad = ángulo bilingüe relevante
+- Salario sólido $50-60k en rango objetivo
+- Social media management, Canva, video → match directo con competencias
+
+**Ángulo clave:**
+> Experiencia en content management para service-based businesses. Minga Orthodontics (aplicación previa) muestra afinidad con práctias de salud. Bilingüe → potencial para alcanzar pacientes hispanohablantes en Columbus.
+
+---
+
+### R8-2 — Marketing Operations & Strategic Projects Manager | Alcore Senior Management | 74% match ⭐
+**Salario:** $50,000–$65,000/año | **Modalidad:** HÍBRIDO | **Dublin, OH**
+**Publicado:** 25 junio 2026 (AYER) | **Tipo:** Full-time
+**Fuente:** Indeed
+
+**Por qué eres compatible:**
+- Dublin, OH = ciudad de residencia → 0 commute
+- "Marketing Operations" = gestión de campañas, coordinación de proyectos → experiencia directa
+- "Strategic Projects" → encaja con perfil de coordinación operacional (Maersk)
+- Híbrido = modalidad preferida
+
+**Qué revisar:**
+- "Manager" puede requerir 3-5 años de experiencia directa — verificar requisitos formales
+- "Senior Management" = firma de consultoría/staffing, investigar industria específica
+
+---
+
+### R8-3 — Community Manager | Rambler | LV Collective | 68% match
+**Salario:** $39,474–$56,907/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 23 junio 2026 | **Tipo:** Full-time
+**Fuente:** Indeed
+**Nota:** Debajo del umbral 70% — monitorear, no prioridad inmediata
+
+**Por qué considerar:**
+- LV Collective = empresa de residencias estudiantiles premium → community management real
+- "Rambler" = propiedad OSU-área → alto tráfico millennial/Gen Z
+- Community management = redes, eventos, relaciones = experiencia directa
+
+**Limitación:**
+- Salario mínimo bajo ($39k) para trabajo presencial Columbus
+- Foco en residentes estudiantiles puede limitar aplicabilidad de experiencia bilingual
+
+---
+
 ## 📁 HISTORIAL DE APLICACIONES
 
 | Fecha | Puesto | Empresa | Estado | Próximo paso |
@@ -333,6 +386,9 @@
 | 2026-06-23 | Marketing Coordinator (Social + Content) | Penzone Salons | 🔥 **APLICAR HOY** | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChY2ZXMydXBieTRTaldEQVVJblIzN2RnEiQwMTllZjY0OC0wM2ZhLTdmMjItYjY3Ni04MzkwMzc2ODk4OWEaSEFBR1liSDlIQVQ0VGVZT3RmWnlHYTNHVk9oX3hOZEY5VUowRnd2QjRUWEJDQXdnNXZqdlZXNDVLdE42bGlwWG01b1l4Y2NZNiDJrQUQARjJrQU%3D&tsid=100000502) |
 | 2026-06-23 | Marketing Coordinator (Design + Digital) | Charles Penzone | 📅 Esta semana | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZCZllYN1JNbUdJQ0VheEdHWm9acGZREiQwMTllZjY0OC0wMDViLTc5MzYtYTNhZC0xMTkyMWYzYjJhYzgaSEFBR3ljQnFCUkFXWTlnQWlUM1VfZTZONFAzXzdIaVprb0FCQlAydkZIU3J0RG1hMkphVGlST0QtWVdGQlRjaW5zLVlRdEJ2ViDJrQUQARjJrQU%3D&tsid=100000502) |
 | 2026-06-23 | Senior Social Media Specialist — International | L Brands, Inc. | 📅 Esta semana | [Aplicar](https://www.ziprecruiter.com/job-redirect?match_token=CowBChZWVGMtOWViZHpGRDMwNXM1eUZMWTNBEiQwMTllZjY0OC0wM2ZhLTdmMjYtYjZlMC0zODFkNDJiZDRmMWUaSEFBRjh2ZXhhNFoyYVc3RUw4dDV3UDhXQTFOSF9uVE1Mek4tWWJTS1BxUThjYUpQZU9xeTBaU0R3TjBodVc2MXJ5QUxLb2RUQSDJrQUQARjJrQU%3D&tsid=100000502) |
+| 2026-06-26 | Brand Content Manager | Ability Chiropractic | 📅 Esta semana | [Aplicar](https://to.indeed.com/aa7bhttplbhx) |
+| 2026-06-26 | Marketing Operations & Strategic Projects Manager | Alcore Senior Management | 👁️ Monitorear | Buscar link aplicación |
+| 2026-06-26 | Community Manager \| Rambler | LV Collective | 👁️ Monitorear | Buscar link aplicación |
 
 *(Se actualiza con cada aplicación)*
 
@@ -346,7 +402,8 @@
 | Ronda 5 (✅ completa) | Real Estate Social Media, Agency Coordinator, Bilingual Marketing Coordinator |
 | Ronda 6 (✅ completa) | University Enrollment, Hispanic Outreach, Graduate Programs OH |
 | Ronda 7 (✅ completa) | Social Media Expert, Content Creator, Marketing Coordinator Digital/Design, L Brands, Wellness |
-| Ronda 8 (pendiente) | Hispanic Media Specialist, Nonprofit Communications, Brand Partnerships, Healthcare Marketing |
+| Ronda 8 (🔄 en progreso) | Hispanic Media Specialist, Nonprofit Communications, Brand Partnerships, Healthcare Marketing — 3 encontrados |
+| Ronda 9 (pendiente) | Healthcare Marketing, Tech Sector Marketing Coordinator, Bilingual Marketing Specialist, Corporate Communications |
 
 ---
 
