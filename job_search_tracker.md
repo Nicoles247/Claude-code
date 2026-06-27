@@ -27,7 +27,7 @@
 | Búsquedas ejecutadas | 32+ (rondas 1–9) |
 | Empleos encontrados | 50 |
 | Empleos calificados (≥70% match) | 33 |
-| **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
+| **✅ Aplicados** | **6** (Ohio Hispanic Coalition, Origo, Minga, Brand Blitz Verse, CBRE, Scotts Miracle-Gro) |
 | **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
 | **Aplicar de inmediato (≥85%)** | **3** (Express, Penzone Social, Penzone Design) |
 | Aplicar esta semana (75-84%) | 15 |
@@ -73,6 +73,9 @@
 | **R7-8** | **Marketing Coordinator** | **RDP Foodservice** | Presencial | Hilliard, OH | $40,746–$53,289 | **70%** | 👁️ Monitorear |
 | **R7-9** | **Marketing Coordinator / Back Desk** | **Oral & Maxillofacial Surgery Center** | Presencial | Pickerington, OH | $37,440–$49,920 | **65%** | 👁️ Monitorear |
 | **R7-10** | **Home Health Marketing Outreach Coordinator** | **Tucker Home Healthcare** | Presencial | Columbus, OH | $30,000–$50,000 | **65%** | 👁️ Monitorear |
+| **IND-1** | **Public Relations Coordinator** | **Brand Blitz Verse** | Presencial | Columbus, OH | $50,000–$55,000 | **80%** | ✅ APLICADO |
+| **IND-2** | **Workplace Experience Coordinator** | **CBRE** | Presencial | Columbus, OH | N/D | **68%** | ✅ APLICADO |
+| **IND-3** | **Field Station Coordinator** | **Scotts Miracle-Gro** | Presencial | Marysville, OH | $52,500–$61,800 | **70%** | ✅ APLICADO |
 | **R9-1** | **Senior Marketing Coordinator, Traffic** | **Victoria's Secret** | Presencial | Reynoldsburg, OH | $58,000–$76,125 | **78%** | 📅 Esta semana |
 | **R9-2** | **Videographer / Social Media Manager** | **The Social Hour** | Presencial | Columbus, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
 | **R8-1** | **Brand Content Manager** | **Ability Chiropractic** | Presencial | Columbus, OH | $50,000–$60,000 | **82%** | 📅 Esta semana |
@@ -429,6 +432,9 @@
 | 2026-06-26 | Brand Content Manager | Ability Chiropractic | 📅 Esta semana | [Aplicar](https://to.indeed.com/aa7bhttplbhx) |
 | 2026-06-26 | Marketing Operations & Strategic Projects Manager | Alcore Senior Management | 👁️ Monitorear | Buscar link aplicación |
 | 2026-06-26 | Community Manager \| Rambler | LV Collective | 👁️ Monitorear | Buscar link aplicación |
+| 2026-05-31 | Field Station Coordinator | Scotts Miracle-Gro | ✅ **APLICADO** | Marysville, OH — $52,500–$61,800 |
+| 2026-06-17 | Workplace Experience Coordinator — Training Facility | CBRE | ✅ **APLICADO** | Confirmación recibida vía email |
+| 2026-06-18 | Public Relations Coordinator | Brand Blitz Verse | ✅ **APLICADO** | Confirmación SmartRecruiters — posible relación con Limitless East Mktg |
 | 2026-06-27 | Senior Marketing Coordinator, Traffic | Victoria's Secret | 📅 Esta semana | [Aplicar](https://to.indeed.com/aajywrwltsjd) |
 | 2026-06-27 | Videographer / Social Media Manager | The Social Hour | 📅 Esta semana | [Aplicar](https://to.indeed.com/aa8wxv28m7j7) |
 
