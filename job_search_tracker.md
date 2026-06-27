@@ -1,5 +1,5 @@
 # 📋 TRACKER DE APLICACIONES — NICOLE SERRANO
-**Última actualización:** 2026-06-26 (R8) | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
+**Última actualización:** 2026-06-27 (R9) | **Autorización laboral:** EAD C08 (válida, sin sponsorship)
 **Perfil:** Bilingual Marketing & Operations Professional | Dublin/Columbus, OH
 
 ---
@@ -24,13 +24,13 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 26+ (rondas 1–8) |
-| Empleos encontrados | 48 |
-| Empleos calificados (≥70% match) | 31 |
+| Búsquedas ejecutadas | 32+ (rondas 1–9) |
+| Empleos encontrados | 50 |
+| Empleos calificados (≥70% match) | 33 |
 | **✅ Aplicados** | **3** (Ohio Hispanic Coalition, Origo, Minga) |
 | **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
 | **Aplicar de inmediato (≥85%)** | **3** (Express, Penzone Social, Penzone Design) |
-| Aplicar esta semana (75-84%) | 13 |
+| Aplicar esta semana (75-84%) | 15 |
 | Monitorear / considerar (65-74%) | 11 |
 | 📄 CV Listo | 12 (aplicaciones 8–15, excl. R4-5/R4-6) |
 | ⚠️ Descartadas (ventas directas/scam) | 2 (Arch City Collective, Park 6 Logistics) |
@@ -73,6 +73,8 @@
 | **R7-8** | **Marketing Coordinator** | **RDP Foodservice** | Presencial | Hilliard, OH | $40,746–$53,289 | **70%** | 👁️ Monitorear |
 | **R7-9** | **Marketing Coordinator / Back Desk** | **Oral & Maxillofacial Surgery Center** | Presencial | Pickerington, OH | $37,440–$49,920 | **65%** | 👁️ Monitorear |
 | **R7-10** | **Home Health Marketing Outreach Coordinator** | **Tucker Home Healthcare** | Presencial | Columbus, OH | $30,000–$50,000 | **65%** | 👁️ Monitorear |
+| **R9-1** | **Senior Marketing Coordinator, Traffic** | **Victoria's Secret** | Presencial | Reynoldsburg, OH | $58,000–$76,125 | **78%** | 📅 Esta semana |
+| **R9-2** | **Videographer / Social Media Manager** | **The Social Hour** | Presencial | Columbus, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
 | **R8-1** | **Brand Content Manager** | **Ability Chiropractic** | Presencial | Columbus, OH | $50,000–$60,000 | **82%** | 📅 Esta semana |
 | **R8-2** | **Marketing Operations & Strategic Projects Manager** | **Alcore Senior Management** | **Híbrido** | Dublin, OH | $50,000–$65,000 | **74%** | 👁️ Monitorear |
 | **R8-3** | **Community Manager \| Rambler** | **LV Collective** | Presencial | Columbus, OH | $39,474–$56,907 | **68%** | 👁️ Monitorear |
@@ -316,6 +318,44 @@
 
 ---
 
+### R9-1 — Senior Marketing Coordinator, Traffic | Victoria's Secret | 78% match ⭐
+**Salario:** $58,000–$76,125/año | **Modalidad:** Presencial | **Reynoldsburg, OH** (~20 min de Dublin)
+**Publicado:** 27 junio 2026 (HOY) | **Tipo:** Full-time
+**Link:** https://to.indeed.com/aajywrwltsjd
+
+**Por qué eres compatible:**
+- Victoria's Secret = misma empresa matriz que L Brands (R7-4) — dos oportunidades dentro del mismo grupo
+- "Traffic Coordinator" = gestión del flujo interno de proyectos creativos y campañas → Maersk experience encaja directamente
+- Retail/fashion brand → alineado con interés en Express (R7-1)
+- Publicado HOY = máxima frescura, aplicar de inmediato
+- $58-76k = mejor rango salarial encontrado en todas las búsquedas
+
+**Qué revisar:**
+- "Senior" puede requerir 3+ años en marketing coordination — pero rango salarial sugiere entry/mid level
+- "Traffic" = término específico en marketing (asset workflow, no tráfico digital) — verificar JD completo
+
+**Ángulo clave:**
+> Coordinación de proyectos bajo deadlines (Maersk, freelance 5 años), experiencia con campañas de contenido y materiales de marketing, familiaridad con marcas fashion premium (Express).
+
+---
+
+### R9-2 — Videographer / Social Media Manager | The Social Hour | 76% match ⭐
+**Salario:** $55,000–$65,000/año | **Modalidad:** Presencial | **Columbus, OH**
+**Publicado:** 6 mayo 2026 (52 días) | **Tipo:** Full-time
+**Link:** https://to.indeed.com/aa8wxv28m7j7
+
+**Por qué eres compatible:**
+- Video production + social media management = combinación exacta de experiencia (Reels, Stories, content para clientes)
+- "The Social Hour" = agencia especializada en social media → entorno de múltiples clientes (freelance background encaja)
+- $55-65k = rango sólido
+- Canva + Adobe skills + video = match directo
+
+**Qué revisar:**
+- 52 días de antigüedad — verificar si sigue activo antes de invertir tiempo
+- Rol puede requerir experiencia formal en producción de video más elaborada (equipo, edición profesional)
+
+---
+
 ### R8-1 — Brand Content Manager | Ability Chiropractic | 82% match ⭐
 **Salario:** $50,000–$60,000/año | **Modalidad:** Presencial | **Columbus, OH**
 **Publicado:** 22 junio 2026 | **Tipo:** Full-time
@@ -389,6 +429,8 @@
 | 2026-06-26 | Brand Content Manager | Ability Chiropractic | 📅 Esta semana | [Aplicar](https://to.indeed.com/aa7bhttplbhx) |
 | 2026-06-26 | Marketing Operations & Strategic Projects Manager | Alcore Senior Management | 👁️ Monitorear | Buscar link aplicación |
 | 2026-06-26 | Community Manager \| Rambler | LV Collective | 👁️ Monitorear | Buscar link aplicación |
+| 2026-06-27 | Senior Marketing Coordinator, Traffic | Victoria's Secret | 📅 Esta semana | [Aplicar](https://to.indeed.com/aajywrwltsjd) |
+| 2026-06-27 | Videographer / Social Media Manager | The Social Hour | 📅 Esta semana | [Aplicar](https://to.indeed.com/aa8wxv28m7j7) |
 
 *(Se actualiza con cada aplicación)*
 
@@ -402,8 +444,9 @@
 | Ronda 5 (✅ completa) | Real Estate Social Media, Agency Coordinator, Bilingual Marketing Coordinator |
 | Ronda 6 (✅ completa) | University Enrollment, Hispanic Outreach, Graduate Programs OH |
 | Ronda 7 (✅ completa) | Social Media Expert, Content Creator, Marketing Coordinator Digital/Design, L Brands, Wellness |
-| Ronda 8 (🔄 en progreso) | Hispanic Media Specialist, Nonprofit Communications, Brand Partnerships, Healthcare Marketing — 3 encontrados |
-| Ronda 9 (pendiente) | Healthcare Marketing, Tech Sector Marketing Coordinator, Bilingual Marketing Specialist, Corporate Communications |
+| Ronda 8 (✅ completa) | Brand Content Manager, Marketing Ops Manager, Community Manager — 3 encontrados |
+| Ronda 9 (✅ completa) | Social Media Coordinator, Content Coordinator, Event Marketing, Nonprofit, Outreach — 2 nuevos encontrados |
+| Ronda 10 (pendiente) | Healthcare/Medical Marketing, University/Edu sector, Tech Company Coordinator, Lifestyle Brands |
 
 ---
 
