@@ -32,7 +32,7 @@
 | **Aplicar de inmediato (≥85%)** | **2** (Express & Bonobos, Penzone Salons Social) |
 | Aplicar esta semana (75-84%) | 16 |
 | Monitorear / considerar (65-74%) | 11 |
-| 📄 CV Listo | **20** (aplicaciones 5–20, archivos Word generados) |
+| 📄 CV Listo | **22** (aplicaciones 5–22, archivos Word generados) |
 | ⚠️ Descartadas (ventas directas/scam) | 2 (Arch City Collective, Park 6 Logistics) |
 
 ---
@@ -66,8 +66,8 @@
 | **R7-1** | **Content Creator, Social Media & Community** | **Express & Bonobos** | Presencial | Columbus, OH | $40,500–$65,000 | **88%** | ⚡ Aplicar Hoy |
 | **R7-2** | **Marketing Coordinator (Social + Content)** | **Penzone Salons** | **Híbrido** | Dublin, OH | $44,300–$55,900 | **85%** | ⚡ Aplicar Hoy |
 | **R7-3** | **Marketing Coordinator (Design + Digital)** | **Charles Penzone** | **Híbrido** | Dublin, OH | $42,900–$56,400 | **84%** | 📅 Esta semana |
-| **R7-4** | **Senior Social Media Specialist — International** | **L Brands, Inc.** | Presencial | Columbus, OH | $40,600–$59,900 | **82%** | 📅 Esta semana |
-| **R7-5** | **Community Director — Corporate Wellness & Partnerships** | **Restore Hyper Wellness** | Presencial | Columbus, OH | $50,000+ | **76%** | 📅 Esta semana |
+| **R7-4** | **Senior Social Media Specialist — International** | **L Brands, Inc.** | Presencial | Columbus, OH | $40,600–$59,900 | **82%** | 📄 CV Listo |
+| **R7-5** | **Community Director — Corporate Wellness & Partnerships** | **Restore Hyper Wellness** | Presencial | Columbus, OH | $50,000+ | **76%** | 📄 CV Listo |
 | **R7-6** | **Social Media Expert** | **Jeff Wyler Automotive Family** | Presencial | Dublin, OH | N/D | **73%** | 👁️ Monitorear |
 | **R7-7** | **Marketing Production Coordinator** | **Five Star Group** | Presencial | Canal Winchester, OH | $41,988–$57,266 | **71%** | 👁️ Monitorear |
 | **R7-8** | **Marketing Coordinator** | **RDP Foodservice** | Presencial | Hilliard, OH | $40,746–$53,289 | **70%** | 👁️ Monitorear |
