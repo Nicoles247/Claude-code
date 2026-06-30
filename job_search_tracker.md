@@ -24,15 +24,15 @@
 
 | Métrica | Valor |
 |---|---|
-| Búsquedas ejecutadas | 32+ (rondas 1–9) |
-| Empleos encontrados | 50 |
-| Empleos calificados (≥70% match) | 33 |
+| Búsquedas ejecutadas | 38+ (rondas 1–10) |
+| Empleos encontrados | 53 |
+| Empleos calificados (≥70% match) | 36 |
 | **✅ Aplicados** | **6** (Ohio Hispanic Coalition, Origo, Minga, Brand Blitz Verse, CBRE, Scotts Miracle-Gro) |
 | **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
-| **Aplicar de inmediato (≥85%)** | **3** (Express, Penzone Social, Penzone Design) |
-| Aplicar esta semana (75-84%) | 15 |
+| **Aplicar de inmediato (≥85%)** | **2** (Express & Bonobos, Penzone Salons Social) |
+| Aplicar esta semana (75-84%) | 16 |
 | Monitorear / considerar (65-74%) | 11 |
-| 📄 CV Listo | 12 (aplicaciones 8–15, excl. R4-5/R4-6) |
+| 📄 CV Listo | **20** (aplicaciones 5–20, archivos Word generados) |
 | ⚠️ Descartadas (ventas directas/scam) | 2 (Arch City Collective, Park 6 Logistics) |
 
 ---
@@ -63,8 +63,8 @@
 | **R4-6** | **Marketing Coordinator** | **BeingBrigid Functional Nutrition** | **Remoto** | Remote US | $55,000–$60,000 | **75%** | 👁️ Monitorear |
 | 12 | Content Marketing Coordinator | DocNetwork | **Remoto** | Remote optional | $50,000–$60,000 | **72%** | 👁️ Monitorear |
 | **R6-1** | **Graduate Enrollment & Partnership Coordinator** | **Ohio Dominican University** | Presencial | Columbus, OH | $44,352–$60,837 | **75%** | 📄 CV Listo |
-| **R7-1** | **Content Creator, Social Media & Community** | **Express & Bonobos** | Presencial | Columbus, OH | $40,500–$65,000 | **88%** | 🔥 Aplicar HOY |
-| **R7-2** | **Marketing Coordinator (Social + Content)** | **Penzone Salons** | **Híbrido** | Dublin, OH | $44,300–$55,900 | **85%** | 🔥 Aplicar HOY |
+| **R7-1** | **Content Creator, Social Media & Community** | **Express & Bonobos** | Presencial | Columbus, OH | $40,500–$65,000 | **88%** | ⚡ Aplicar Hoy |
+| **R7-2** | **Marketing Coordinator (Social + Content)** | **Penzone Salons** | **Híbrido** | Dublin, OH | $44,300–$55,900 | **85%** | ⚡ Aplicar Hoy |
 | **R7-3** | **Marketing Coordinator (Design + Digital)** | **Charles Penzone** | **Híbrido** | Dublin, OH | $42,900–$56,400 | **84%** | 📅 Esta semana |
 | **R7-4** | **Senior Social Media Specialist — International** | **L Brands, Inc.** | Presencial | Columbus, OH | $40,600–$59,900 | **82%** | 📅 Esta semana |
 | **R7-5** | **Community Director — Corporate Wellness & Partnerships** | **Restore Hyper Wellness** | Presencial | Columbus, OH | $50,000+ | **76%** | 📅 Esta semana |
@@ -76,9 +76,9 @@
 | **IND-1** | **Public Relations Coordinator** | **Brand Blitz Verse** | Presencial | Columbus, OH | $50,000–$55,000 | **80%** | ✅ APLICADO |
 | **IND-2** | **Workplace Experience Coordinator** | **CBRE** | Presencial | Columbus, OH | N/D | **68%** | ✅ APLICADO |
 | **IND-3** | **Field Station Coordinator** | **Scotts Miracle-Gro** | Presencial | Marysville, OH | $52,500–$61,800 | **70%** | ✅ APLICADO |
-| **R9-1** | **Senior Marketing Coordinator, Traffic** | **Victoria's Secret** | Presencial | Reynoldsburg, OH | $58,000–$76,125 | **78%** | 📅 Esta semana |
-| **R9-2** | **Videographer / Social Media Manager** | **The Social Hour** | Presencial | Columbus, OH | $55,000–$65,000 | **76%** | 📅 Esta semana |
-| **R8-1** | **Brand Content Manager** | **Ability Chiropractic** | Presencial | Columbus, OH | $50,000–$60,000 | **82%** | 📅 Esta semana |
+| **R9-1** | **Senior Marketing Coordinator, Traffic** | **Victoria's Secret** | Presencial | Reynoldsburg, OH | $58,000–$76,125 | **78%** | 📄 CV Listo |
+| **R9-2** | **Videographer / Social Media Manager** | **The Social Hour** | Presencial | Columbus, OH | $55,000–$65,000 | **76%** | 📄 CV Listo |
+| **R8-1** | **Brand Content Manager** | **Ability Chiropractic** | Presencial | Columbus, OH | $50,000–$60,000 | **82%** | 📄 CV Listo |
 | **R8-2** | **Marketing Operations & Strategic Projects Manager** | **Alcore Senior Management** | **Híbrido** | Dublin, OH | $50,000–$65,000 | **74%** | 👁️ Monitorear |
 | **R8-3** | **Community Manager \| Rambler** | **LV Collective** | Presencial | Columbus, OH | $39,474–$56,907 | **68%** | 👁️ Monitorear |
 | ~~AC-1~~ | ~~Marketing Coordinator~~ | ~~Arch City Collective~~ | ~~Presencial~~ | ~~Columbus, OH~~ | ~~N/D~~ | ~~85%~~ | ⛔ DESCARTADA — ventas directas |
@@ -452,7 +452,7 @@
 | Ronda 7 (✅ completa) | Social Media Expert, Content Creator, Marketing Coordinator Digital/Design, L Brands, Wellness |
 | Ronda 8 (✅ completa) | Brand Content Manager, Marketing Ops Manager, Community Manager — 3 encontrados |
 | Ronda 9 (✅ completa) | Social Media Coordinator, Content Coordinator, Event Marketing, Nonprofit, Outreach — 2 nuevos encontrados |
-| Ronda 10 (pendiente) | Healthcare/Medical Marketing, University/Edu sector, Tech Company Coordinator, Lifestyle Brands |
+| Ronda 10 (✅ completa) | Healthcare/Medical Marketing, University/Edu sector, Tech Company Coordinator, Lifestyle Brands — mercado saturado, mismas posiciones. Sin nuevas calificadas ≥70%. Revisar en 24-48 hrs. |
 
 ---
 
