@@ -28,7 +28,7 @@
 | Empleos encontrados | 53 |
 | Empleos calificados (≥70% match) | 36 |
 | **✅ Aplicados** | **6** (Ohio Hispanic Coalition, Origo, Minga, Brand Blitz Verse, CBRE, Scotts Miracle-Gro) |
-| **🎯 Entrevista agendada** | **0** (Arch City Collective = ventas directas, descartada) |
+| **📞 Entrevista agendada** | **1** — Ohio Hispanic Coalition (Program Coordinator, $47,840–$56,160) |
 | **Aplicar de inmediato (≥85%)** | **2** (Express & Bonobos, Penzone Salons Social) |
 | Aplicar esta semana (75-84%) | 16 |
 | Monitorear / considerar (65-74%) | 11 |
@@ -41,7 +41,7 @@
 
 | # | Puesto | Empresa | Modalidad | Ubicación | Salario/año | Match % | Estado |
 |---|---|---|---|---|---|---|---|
-| 1 | Program Coordinator | Ohio Hispanic Coalition | Presencial | Columbus, OH | $47,840–$56,160 | **91%** | ✅ APLICADO |
+| 1 | Program Coordinator | Ohio Hispanic Coalition | Presencial | Columbus, OH | $47,840–$56,160 | **91%** | 📞 ENTREVISTA |
 | 2 | Account Coordinator | Origo Branding Company | **Híbrido** | Columbus, OH | $39,494–$52,181 | **88%** | ✅ APLICADO |
 | 3 | Marketing & Patient Care Coordinator | Minga Orthodontics | Presencial | Dublin, OH | $37,440–$45,760 | **85%** | ✅ APLICADO |
 | 4 | Public Relations Coordinator | Limitless East Marketing | Presencial | Columbus, OH | $50,000–$55,000 | **82%** | 📅 Esta semana |
