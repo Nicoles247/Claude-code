@@ -1,5 +1,5 @@
 # NICOLE SERRANO
-**Dublin/Columbus, OH** | nicoleserrano02@gmail.com | (+1) 469-926-0621
+**Dublin/Dublin, OH** | nicoleserrano02@gmail.com | (+1) 469-926-0621
 **Bilingual: English / Spanish** | LinkedIn: linkedin.com/in/nicole-serrano-8544202ab
 
 ---
@@ -18,7 +18,7 @@ Administrative Support & Office Coordination · Bilingual Communication (English
 
 ## PROFESSIONAL EXPERIENCE
 
-### Communications & Operations Trainer | Maersk
+### Office shipping Clerk, Communications & Operations Trainer | Maersk
 *Columbus, OH | December 2024 – Present*
 - Provide professional administrative and communications support for a 500+ person corporate workforce at a global Fortune 500 company
 - Prepare, format, and distribute professional documents, reports, presentation decks, and branded communications in English and Spanish
