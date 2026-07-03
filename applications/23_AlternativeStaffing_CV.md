@@ -19,7 +19,7 @@ Administrative Support & Office Coordination · Bilingual Communication (English
 ## PROFESSIONAL EXPERIENCE
 
 ### Office shipping Clerk, Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | January 2025 – Present*
 - Provide professional administrative and communications support for a 500+ person corporate workforce at a global Fortune 500 company
 - Prepare, format, and distribute professional documents, reports, presentation decks, and branded communications in English and Spanish
 - Coordinate information flow across multiple departments and stakeholder levels, managing competing deadlines with consistent accuracy
@@ -44,7 +44,7 @@ Administrative Support & Office Coordination · Bilingual Communication (English
 - Coordinated with vendors and internal staff to manage campaign schedules and deliverable timelines
 
 ### Warehouse Operations Associate | Bioworld Merchandising
-*January 2023 – November 2024*
+*January 2023 – January 2024*
 - Maintained accurate operational records, inventory tracking, and database entries in a high-volume, deadline-driven environment
 - Supported team coordination and cross-departmental communication in a fast-paced warehouse and logistics setting
 - Demonstrated reliability, punctuality, and consistent performance over a sustained period
