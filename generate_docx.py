@@ -185,21 +185,41 @@ def _add_inline_formatted_run(paragraph, text, size=10.5):
 
 
 def main():
+    import sys
+    args = sys.argv[1:]
+
     apps_dir = "/home/user/Claude-code/applications"
     out_dir = "/home/user/Claude-code/applications/word"
     os.makedirs(out_dir, exist_ok=True)
 
-    md_files = sorted([f for f in os.listdir(apps_dir) if f.endswith('.md')])
+    # Single-file mode: python3 generate_docx.py input.md output.docx
+    if len(args) == 2:
+        md_path, out_path = args[0], args[1]
+        is_cover = 'CoverLetter' in os.path.basename(md_path)
+        md_to_docx(md_path, out_path, is_cover_letter=is_cover)
+        print(f"\n✅ Generado: {os.path.basename(out_path)}")
+        return
 
-    print(f"Convirtiendo {len(md_files)} archivos a Word...\n")
+    # Batch mode: only rebuild if .md is newer than existing .docx
+    md_files = sorted([f for f in os.listdir(apps_dir) if f.endswith('.md')])
+    rebuilt, skipped = 0, 0
+
+    print(f"Verificando {len(md_files)} archivos...\n")
     for fname in md_files:
         md_path = os.path.join(apps_dir, fname)
         docx_name = fname.replace('.md', '.docx')
         out_path = os.path.join(out_dir, docx_name)
         is_cover = 'CoverLetter' in fname
-        md_to_docx(md_path, out_path, is_cover_letter=is_cover)
 
-    print(f"\n✅ {len(md_files)} archivos generados en {out_dir}")
+        # Skip if output exists and is newer than source
+        if os.path.exists(out_path) and os.path.getmtime(out_path) >= os.path.getmtime(md_path):
+            skipped += 1
+            continue
+
+        md_to_docx(md_path, out_path, is_cover_letter=is_cover)
+        rebuilt += 1
+
+    print(f"\n✅ {rebuilt} reconstruidos, {skipped} sin cambios — {out_dir}")
 
 
 if __name__ == "__main__":
