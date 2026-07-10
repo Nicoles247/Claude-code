@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__9aa2e03d-7587-4bb9-89b4-5e2c868377da__search_jobs",
+      "mcp__d4d0525b-0f20-451e-a8fe-0b3537cd9a5a__search_jobs",
+      "mcp__91d691f2-31fe-43ae-81a3-0e8dd6d0afe9__notion-fetch",
+      "mcp__91d691f2-31fe-43ae-81a3-0e8dd6d0afe9__notion-search",
+      "mcp__91d691f2-31fe-43ae-81a3-0e8dd6d0afe9__notion-create-pages",
+      "mcp__91d691f2-31fe-43ae-81a3-0e8dd6d0afe9__notion-update-page",
+      "mcp__91d691f2-31fe-43ae-81a3-0e8dd6d0afe9__notion-query-data-sources",
+      "mcp__975f318e-c443-40fb-8496-0702723959e6__create_event",
+      "mcp__975f318e-c443-40fb-8496-0702723959e6__list_events",
+      "mcp__975f318e-c443-40fb-8496-0702723959e6__list_calendars"
+    ]
+  }
+}
