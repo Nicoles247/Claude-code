@@ -19,7 +19,7 @@ Trade Show & Event Coordination · Logistics & Operations Management · Vendor &
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate the production and distribution of branded marketing materials, presentations, and operational communications across multiple departments at a global Fortune 500 company
 - Manage multiple simultaneous projects — tracking timelines, coordinating cross-departmental approvals, maintaining organized workflows, and ensuring on-time delivery
 - Support multi-location logistics for training and onboarding programs — scheduling, materials preparation, shipping coordination, and participant communications
@@ -68,4 +68,4 @@ Microsoft Word · Microsoft Excel · Microsoft PowerPoint · Microsoft Outlook �
 ---
 
 *Authorized to work in the United States — EAD C08 (no sponsorship required)*
-*Available for full-time work with travel — Columbus, OH area*
+*Available for full-time work with travel — Columbus, OH area — immediate start*

@@ -19,7 +19,7 @@ Community Relations & Outreach · Local Partnership Development · Client Relati
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual communications liaison for a 500+ person multicultural workforce at a global Fortune 500 organization
 - Build cross-departmental relationships and coordinate information flow between management, operations teams, and individual employees — acting as a trusted community resource across the organization
 - Develop branded communications, training materials, and digital content aligned with corporate standards

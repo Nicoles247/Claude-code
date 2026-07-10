@@ -35,7 +35,7 @@ Digital Marketing · Social Media Management · Content Creation & Strategy · C
 - Coordinated with sales and operations to align digital marketing timing with product launches and promotions
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Create digital and print training communications in English and Spanish for a distributed workforce
 - Manage documentation systems and digital workflow coordination across departments
 

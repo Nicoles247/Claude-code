@@ -19,7 +19,7 @@ Enrollment Outreach Coordination · Partnership Development · Bilingual Communi
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop professional training documentation, operational communications, and visual materials in English and Spanish for a multicultural workforce
 - Coordinate cross-departmental communications and workflows, managing multiple stakeholders and delivery timelines simultaneously
 - Serve as bilingual point of contact between management and frontline teams, ensuring clear information transfer across language and cultural lines

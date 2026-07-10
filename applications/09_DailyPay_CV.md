@@ -33,7 +33,7 @@ Marketing Operations · Campaign Coordination · B2C Marketing · Content Creati
 - Coordinated between marketing, operations, and client teams to ensure campaign deliverables aligned with brand standards and launch timelines
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Manage operational documentation, workflow processes, and communications systems for a cross-functional team
 - Create training materials and deliver operational communications in English and Spanish
 - Coordinate between departments to maintain process consistency and timeline adherence

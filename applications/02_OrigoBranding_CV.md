@@ -34,7 +34,7 @@ Account Coordination · Client Communications · Project & Timeline Management �
 - Supported client attraction and retention through targeted marketing efforts and professional relationship management
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Provide cross-functional coordination between operations, administration, and team leadership
 - Train and onboard new associates, developing clear communication materials and procedural documentation
 - Manage inventory tracking, workflow coordination, and reporting in a high-volume environment

@@ -19,7 +19,7 @@ Community Outreach & Engagement · Program Coordination · Bilingual Communicati
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual liaison and operations trainer for new associates, delivering onboarding and procedural instruction in English and Spanish
 - Coordinate workflow between departments, manage documentation, and provide administrative support to supervisors and leadership
 - Oversee production control, inventory tracking, and problem resolution in a fast-paced, multicultural environment

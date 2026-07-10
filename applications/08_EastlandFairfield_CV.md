@@ -33,7 +33,7 @@ Institutional Communications · Marketing Coordination · Content Creation · Co
 - Coordinated cross-team communications between marketing, operations, and client-facing staff
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop and deliver communications training documentation in English and Spanish to diverse workforce
 - Create administrative reporting, onboarding materials, and cross-departmental communication processes
 - Serve as bilingual liaison between management and staff, ensuring clarity and consistency in institutional messaging

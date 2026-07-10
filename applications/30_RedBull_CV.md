@@ -19,7 +19,7 @@ Field Marketing & Brand Activation · Event Planning & On-Site Execution · Cons
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate communications and operations projects for a 500+ person workforce at a global Fortune 500 company — managing timelines, cross-departmental coordination, and branded content production with precision
 - Produce and distribute branded training materials, presentations, and communications aligned with corporate identity and strategic messaging
 - Represent organizational communications across diverse audiences — applying bilingual (English/Spanish) skills to engage all team members effectively in high-visibility professional settings
@@ -68,4 +68,4 @@ Microsoft Word · Microsoft Excel · Microsoft PowerPoint · Microsoft Outlook �
 ---
 
 *Authorized to work in the United States — EAD C08 (no sponsorship required)*
-*Available for full-time, field-based work — Columbus, OH area*
+*Available for full-time, field-based work — Columbus, OH area — immediate start*

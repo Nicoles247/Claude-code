@@ -33,7 +33,7 @@ Community Relations · Stakeholder Engagement · Bilingual Communications (EN/ES
 - Supported customer acquisition through targeted outreach and relationship-building campaigns
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual liaison between management and a multicultural workforce in Columbus
 - Deliver onboarding communications and training in both English and Spanish
 - Build trust across cultural and language barriers in a large operational environment

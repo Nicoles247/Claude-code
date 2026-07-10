@@ -19,7 +19,7 @@ Community Outreach & Engagement · Partnership Coordination & Development · Bil
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as a bilingual (English/Spanish) communications liaison between management and a 500+ person multicultural workforce at a global Fortune 500 company — facilitating clear, culturally competent communication across language barriers
 - Prepare and distribute professional communications, reports, and branded materials to stakeholders at all organizational levels
 - Coordinate information flow across multiple departments — managing competing deadlines with consistent accuracy and professionalism

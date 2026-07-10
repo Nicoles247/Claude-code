@@ -19,7 +19,7 @@ Marketing Traffic & Workflow Coordination · Project & Campaign Timeline Managem
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate cross-departmental workflows and communications for a 500+ person multicultural organization, managing multiple simultaneous deliverables and stakeholder relationships
 - Track and manage content delivery timelines across departments, ensuring branded materials and communications are completed accurately and on schedule
 - Produce operational documentation, visual materials, and training content in English and Spanish, maintaining consistency across all formats and brand standards

@@ -19,7 +19,7 @@ Social Media Management · Content Creation & Strategy · Community Outreach · 
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Primary bilingual communicator between management and associates, ensuring clear and effective information exchange
 - Train and onboard new team members, creating a welcoming, structured introduction to procedures and culture
 - Coordinate administrative and clerical operations supporting team leadership

@@ -35,7 +35,7 @@ Social Media Management · Content Strategy & Planning · Content Creation (Grap
 - Coordinated with clients and internal teams to ensure content aligned with business objectives
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Maintain clear digital communications and documentation in a multicultural, bilingual environment
 - Train and onboard new associates with structured procedural content
 
@@ -64,4 +64,4 @@ Canva · Meta Business Suite · Adobe Photoshop · Adobe Premiere · Adobe Illus
 
 ---
 
-*Authorized to work in the United States — EAD C08 (no sponsorship required) | Available for fully remote work*
+*Authorized to work in the United States — EAD C08 (no sponsorship required) | Available for fully remote work — immediate start*

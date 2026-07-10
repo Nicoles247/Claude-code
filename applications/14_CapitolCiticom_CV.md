@@ -34,7 +34,7 @@ Marketing Coordination · Graphic Design (Canva, Adobe Suite) · Brand Identity 
 - Coordinated creative deliverables between marketing, operations, and management
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop professional training documentation, operational communications, and visual materials in English and Spanish
 - Manage workflow coordination across departments with tight turnarounds
 

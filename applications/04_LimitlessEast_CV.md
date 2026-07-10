@@ -34,7 +34,7 @@ Public Relations · Brand Communications · Press Release Writing · Community O
 - Supported media and promotional outreach to attract new customers
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual communications bridge between management and a multicultural workforce
 - Develop training documentation and deliver onboarding communications in English and Spanish
 - Manage administrative reporting, workflow documentation, and cross-team coordination

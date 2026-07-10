@@ -33,7 +33,7 @@ Social Media Marketing · Content Creation · Real Estate Marketing Support · B
 - Created visual content, copy, and promotional assets aligned with brand identity
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual liaison between management and a multicultural team, ensuring clear and effective communication in both English and Spanish
 - Develop professional communications materials and operational documentation
 

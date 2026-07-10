@@ -33,7 +33,7 @@ Community Outreach · Marketing Communications · Nonprofit Marketing · Event C
 - Created promotional materials and supported community activation campaigns
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual communications bridge for a diverse, multicultural workforce
 - Develop and deliver community-inclusive onboarding and training communications in English and Spanish
 - Build cross-team relationships through consistent, clear, and culturally sensitive communication

@@ -19,7 +19,7 @@ Marketing Operations & Campaign Coordination · Project & Timeline Management ·
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate the production, formatting, and distribution of marketing communications, reports, and branded materials across multiple departments and stakeholder levels at a global Fortune 500 company
 - Manage multiple simultaneous content and communications projects — tracking deadlines, version control, and cross-departmental approvals with consistent accuracy
 - Maintain organized content libraries, asset management systems, and document workflows across teams

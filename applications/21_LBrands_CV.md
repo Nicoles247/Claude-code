@@ -19,7 +19,7 @@ Social Media Strategy & Management · Bilingual Content Production (EN/ES) · In
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop and produce bilingual (English/Spanish) branded communications, digital content, and training materials for a 500+ person multicultural workforce at a global Fortune 500 logistics company
 - Create visual content, presentation decks, and branded digital assets aligned with international corporate brand standards
 - Coordinate content delivery across departments and stakeholders, managing multiple simultaneous projects with consistent quality and on-time execution

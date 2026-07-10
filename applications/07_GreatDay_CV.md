@@ -33,7 +33,7 @@ Event Planning & Execution · Marketing Operations · Vendor Coordination · Log
 - Created marketing materials and managed event-related content for social and digital channels
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Manage high-volume operational workflows in a time-sensitive environment requiring precision logistics
 - Coordinate cross-departmental communications and administrative processes
 - Train and onboard associates — developing structured, clear operational content

@@ -19,7 +19,7 @@ Brand Content Creation & Management · Social Media Strategy & Management · Vis
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop and manage branded content, training materials, and internal communications for a 500+ person multicultural workforce in English and Spanish
 - Produce visual assets, presentation decks, and digital content aligned with corporate brand standards and communications guidelines
 - Coordinate cross-departmental content delivery, managing multiple stakeholders and simultaneous content pipelines under tight deadlines

@@ -19,7 +19,7 @@ Social Media Management · Content Strategy & Production · Editorial Calendar M
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate workflow and communications between departments in a complex, fast-paced operational environment
 - Develop and deliver bilingual training materials, process documentation, and instructional content
 - Manage multiple concurrent projects under tight deadlines — production schedules, reporting, and cross-team coordination

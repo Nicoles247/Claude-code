@@ -19,7 +19,7 @@ Social Media Management · Content Production & Coordination · Marketing Campai
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop and coordinate marketing and operational communications across English and Spanish for a 500+ person multicultural workforce
 - Produce branded visual materials, digital content, and presentation decks aligned with corporate communications standards
 - Manage multiple simultaneous deliverables and stakeholder relationships, ensuring consistent brand voice and on-time execution

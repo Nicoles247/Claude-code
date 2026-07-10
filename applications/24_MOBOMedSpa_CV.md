@@ -19,7 +19,7 @@ Social Media Management (Instagram · Facebook · TikTok · YouTube · Pinterest
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop, format, and distribute branded communications, reports, and marketing materials in English and Spanish for a 500+ person corporate workforce at a global Fortune 500 company
 - Maintain consistent brand voice and visual standards across all internal and external-facing communications, ensuring alignment with company identity across channels
 - Coordinate content production and distribution across multiple departments and stakeholder levels — managing simultaneous projects with consistent on-time delivery

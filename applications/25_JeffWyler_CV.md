@@ -19,7 +19,7 @@ Social Media Strategy & Management (Instagram · Facebook · TikTok · YouTube) 
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Create and distribute branded communications, reports, and professional content for a 500+ person corporate workforce at a global Fortune 500 company — maintaining consistent brand voice and visual standards across all channels
 - Produce bilingual (English/Spanish) content and marketing materials aligned with global brand guidelines
 - Manage multiple simultaneous content projects across departments with consistent on-time delivery
@@ -69,4 +69,4 @@ Canva · Adobe Photoshop · Instagram · Facebook · TikTok · YouTube · Meta A
 ---
 
 *Authorized to work in the United States — EAD C08 (no sponsorship required)*
-*Available for full-time, on-site work — Dublin, OH area preferred*
+*Available for full-time, on-site work — Dublin, OH area — immediate start*

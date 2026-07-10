@@ -19,7 +19,7 @@ Social Media Management (Multi-Client) · Short-Form Video Production (Reels, Ti
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Develop and produce branded visual materials, digital content, and communications in English and Spanish for a 500+ person multicultural workforce
 - Coordinate content delivery across departments, managing multiple simultaneous projects and stakeholders with consistent quality and on-time execution
 - Create presentation decks, training materials, and branded digital assets aligned with corporate standards

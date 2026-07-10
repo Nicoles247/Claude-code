@@ -19,7 +19,7 @@ Marketing Operations & Strategic Project Management · Campaign Coordination & T
 ## PROFESSIONAL EXPERIENCE
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Coordinate marketing communications and operations support for a 500+ person corporate workforce at a global Fortune 500 company — managing multi-department projects with consistent on-time delivery
 - Develop and distribute branded communications, training materials, and operational reports aligned with corporate standards and strategic priorities
 - Manage information flow and cross-departmental coordination across multiple stakeholder levels — maintaining organized workflows, version control, and approval processes
@@ -68,4 +68,4 @@ Microsoft Word · Microsoft Excel · Microsoft PowerPoint · Microsoft Outlook �
 ---
 
 *Authorized to work in the United States — EAD C08 (no sponsorship required)*
-*Available for hybrid, full-time work — Dublin/Columbus, OH area*
+*Available for hybrid, full-time work — Dublin/Columbus, OH area — immediate start*

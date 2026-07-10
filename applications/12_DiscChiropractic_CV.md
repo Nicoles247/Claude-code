@@ -37,7 +37,7 @@ Community Outreach · Health & Wellness Marketing · Social Media Management · 
 - Strong interpersonal skills cultivated through years of direct client interaction in service-based and community-facing roles
 
 ### Communications & Operations Trainer | Maersk
-*Columbus, OH | December 2024 – Present*
+*Columbus, OH | December 2024 – July 2026*
 - Serve as bilingual point of contact between management and multicultural staff
 - Develop communications materials and training documentation in English and Spanish
 
